@@ -2,11 +2,11 @@
     "host": "chat.freenode.net",
     "port": 6697,
     "nick": "KockaRelay",
-    "username": "KockaBot",
-    "password": "cubesarecool123",
+    "username": "Carpe_Universum",
+    "password": "hanstavo21",
     "channels": [
         {
-            "name": "#cvn-wikia-newwikis",
+            "name": "#wikia-vstf",
             "id": "712686761951625246",
             "token": "ZlBaiVfPswRIH79g_kDQCrx23_h8K1otmx2xkF_S3o5OMQgqD0-bEEOvgkSTNBVpTkh5"
         }
